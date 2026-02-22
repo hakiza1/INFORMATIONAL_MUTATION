@@ -147,7 +147,7 @@ To comprehend the meaning of the last sentence above, let's visualize such a sta
  
           
 		  
-        https://github.com/hakiza1/Informational-mutation/blob/main/HAKIZA-1i.tpl
+        https://github.com/hakiza1/INFORMATIONAL_MUTATION/blob/main/HAKIZA-1i.tpl
        
         https://youtu.be/Uqp1kYJLbIM
           
