@@ -1100,7 +1100,7 @@ The actual MMB is not a get-rich-over-night kind of unrealistic delusional bot, 
 - Professional traders "to refine , adapt and make consistent gains in long term from traditional brokers". 
 
         
-        https://github.com/hakiza1/proof-of-concept  (you're not trading price... You're trading the geometry of time) 
+        https://github.com/hakiza1/PROOF_OF_CONCEPT   (you're not trading price... You're trading the geometry of time) 
         
         https://youtu.be/oUzwFR7AxYY   (This is symmetry hunting... Then asymmetry harvesting)
         
