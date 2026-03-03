@@ -1266,7 +1266,7 @@ Let's address the above intrigue with what we dub the HAKIZA-PROGRESSION for the
 
 /+\+/-\+/-\+/-\+.../+    and     \-/-\+/-\+/-\+/-...\-
 
-=== Hence any (T = n odd number greater than 1) isolated reversal sequence, no matter how long it might get, it still can be represented by Sequences   (/\/ and \/\ )   with an informational period "T = 3+2A" and an informational intensity noted "II(3)" .
+=== Hence any (T = n odd number greater than 1) isolated reversal sequence, no matter how long it might get, it still can be imaginary represented by Sequences   (/\/ and \/\ )   with an informational period "T = 3+2A" and an informational intensity noted "II(3+2A)" .
 Where "A belongs to {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ...}" and represents the number of pairs [(+); (-)] within a given isolated reversal sequence.
     
 
@@ -1275,20 +1275,20 @@ Where "A belongs to {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ...}" and represents the 
 
 /+\+/-\+/-\+.../-\-   and     \-/-\+/-\+/-...\+/+
  
-=== Hence any (T = n even natural number) isolated reversal sequence, no matter how long it might get, it still can be represented by Sequences (/\ and \/) with an informational period "T = 2A" and an informational intensity noted "II(2)" .
-Where "A belongs to {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ...}" and represents the number of pairs [(+); (-)] within the given isolated reversal sequence.
+=== Hence any (T = n even natural number greater than 2) isolated reversal sequence, no matter how long it might get, it still can be imaginary represented by Sequences (/\ and \/) with an informational period "T = 2A" and an informational intensity noted "II(2A)" .
+Where "A belongs to {2, 3, 4, 5, 6, 7, 8, 9, 10, ...}" and represents the number of pairs [(+); (-)] within the given isolated reversal sequence.
 
 
 
 
 
 
-Any even-length reversal sequence can be decomposed into paired signed prime units.
+Any even-length "greater than 2" reversal or non-reversal sequence can be decomposed into paired signed prime units.
 
-Let's break down the example with Even sequence below (can be applied to any isolated either reversal or non-reversal even sequence):
+Let's break down the example with a reversal Even sequence below (can be applied to any isolated either reversal or non-reversal even "greater than 2" sequence):
 
 
-\/\/\/\/\/\/\/    (length or informational period T=14, even)
+\/\/\/\/\/\/\/    (length or informational period T=14, even "greater than 2")
 
 After applying the HAKIZA-PROGRESSION scaling, we end up with:
 
