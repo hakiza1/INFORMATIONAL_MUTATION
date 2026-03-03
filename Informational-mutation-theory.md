@@ -1322,13 +1322,13 @@ All middle pairs sum to 0.
 
 So the even sequence results in an informational final potential  "IFP = (2) - (2) = 0"; which is a zero-sum of two primes.
 
-Even sequence = sequence of paired ± units where first and last are opposite-signed primes, middle are neutral.
+Even sequence = sequence of paired ± units where first and last are geometrically opposite-signed primes, middle are neutral.
 
 
 ONE MAY NOT REALIZE IT TOO QUICKLY, BUT IF A LITTLE BIT OF ATTENTION IS PAID, THIS IS A GEOMETRIC DEMONSTRATION OF THE EULER-GOLDBACH CONJECTURE
  
 (Let's finally claim a geometric demonstration:"each even number greater than two represents an orbit obtained from a zero-sum of two primes +2-2=0"); 
-(Let's finally reiterate and reaffirm the strong Conjecture to be true:"each even number greater than two is a sum of two primes").   CQ
+(Let's finally reiterate and reaffirm the strong Conjecture to be true:"each even number greater than two is a sum of two primes").   Q.E.D. 
                                                                                                                                               
            
  
@@ -1728,7 +1728,7 @@ The deviation around 7 "which is the most optimized number of times needed to sh
 THEREFORE BOTH BERNOUILLI AND ALAMBERT ASSUMPTION WERE MATHEMATICALLY AND PHYSICALLY CORRECT ALTHOUGH THEY DIDN'T PROVE IT
 
 (Let's finally claim that "any imaginary single infinite long sequence is a possible informational-mutation-structure");
-(Let's finally reiterate and reaffirm that 85.71428...8571428% of the cases: "Any win is to be followed by a loss, vice versa" ).  CQFD
+(Let's finally reiterate and reaffirm that 85.71428...8571428% of the cases: "Any win is to be followed by a loss, vice versa" ).  Q.E.D. 
                                                                                                                                            
 
 
@@ -1928,7 +1928,7 @@ The Double_Hakiza_Strategy is a hedging-strategy placing simultaneously two trad
 BY USING THE DOUBLE_HAKIZA_STRATEGY, ONE ALWAYS ENDS UP WITH "IFP > 0" AFTER EACH CYCLE (WITHOUT SYMMETRY-DISBALANCE TO FORM ORBITS) 
    
 (Let's finally claim "the hitting of a mathematical wall of D'Alambert strategy" as solvable in any informational dynamically_orbital_system);  
-(Let's finally reiterate "an additional unit after a cycle" as a result in any informational dynamically_orbital_system and reaffirm the D'Alambert strategy effectiveness).  CQFD
+(Let's finally reiterate "an additional unit after a cycle" as a result in any informational dynamically_orbital_system and reaffirm the D'Alambert strategy effectiveness).  Q.E.D. 
 
 
 
@@ -2306,7 +2306,7 @@ Once combined with the Double_Hakiza_Strategy, it is more than enough to practic
 BY REDUCING THE SO-CALLED NP HARD PROBLEM INTO A NP COMPLETE PROBLEM TO END UP WITH "IFP > 0" (AS EITHER IN NP CLASS "2"&"1" OR IN P PROBLEMS) 
         
 (Let's finally claim "P = NP" as a possible and provable ultimate truth in any informational dynamically_orbital_system);
-(Let's finally reiterate and reaffirm "P != NP" as a plausible ultimate truth in any informational statically_orbital_system).   CQFD
+(Let's finally reiterate and reaffirm "P != NP" as a plausible ultimate truth in any informational statically_orbital_system).   Q.E.D. 
                                                                                                                                          
 
 
