@@ -1531,7 +1531,7 @@ Optionally if one chooses to apply the HAKIZA-PROGRESSION as /+\+/-\+/-\+/-\+/-\
 
 ==>   "A = 5"  and "IFP = 0"   
       
-Do the geometric structures below form an orbit (or symmetry) ? YES
+Do the geometric structures above form an orbit (or symmetry) ? YES
 
  
  
@@ -1550,7 +1550,7 @@ Leading to  (77.142857...1428571 * 2) = 154.285714...2857142 out of 720  meaning
 
 Verifiable in a deterministic  polynomial time proportional to "TT = 2A" and solvable in a non-deterministic polynomial time "TD = NTT + 2A".
 Where "NTT" is the informational total period for all non-reversal sequences encountered during the problem-solving  process (or let's say during the formation of the orbit in question).
-Where "A belongs to {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ...}" and represents the total number of pairs encountered during the problem-solving  process (or let's say the formation of the orbit in question) ..
+Where "A belongs to {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ...}" and represents the total number of pairs encountered during the problem-solving  process (or let's say the formation of the orbit in question).
 
  e.g:
  
