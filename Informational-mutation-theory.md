@@ -322,7 +322,7 @@ In a such informational system, the informational properties for each set either
 
 Period T    II(T)          Symbol & IPP                IFP          Sequence                                         
 
- 1          90               /-1                       -1           (red> green green).                               
+ 1          90               /-1                       -1           (red> green green)                               
 
  2          45               /+1\-1                     0           (red> green red red)                              
 
@@ -357,9 +357,9 @@ IFP = ({(45 * 0) + (22.5 * 1) + (11.25 * 2) + (5.625 * 3) + ... + [(n - 2) * 90/
 
 
 Consequentially, non-reversal sequences starting with green_candle basically go as follows:
- 1     90                (green> green red).
- 2     45                (green> green green red).
- 3     22.5              (green> green green green red).
+ 1     90                (green> green red)
+ 2     45                (green> green green red)
+ 3     22.5              (green> green green green red)
  .      .
  .      .
  .      .
@@ -380,7 +380,7 @@ Consequentially, non-reversal sequences starting with green_candle basically go 
 
 Period T    II(T)          Symbol & IPP                  IFP             Sequence
 
- 1          90              \+1                          +1              (green> red red).
+ 1          90              \+1                          +1              (green> red red)
 
  2          45              \-1/+1                        0              (green> red green green)
 
@@ -450,7 +450,7 @@ In a such informational system, the informational properties for each set either
 
 Period T    II(T)          Symbol & IPP                   IFP             Sequence
 
- 1          90               /-1                          -1              (red> green green).
+ 1          90               /-1                          -1              (red> green green)
 
  2          45               /+1\0                        +1              (red> green red red)
 
@@ -486,9 +486,9 @@ IFP = ({(45 *1) + (22.5 * 1) + (11.25 * 1) + (5.625 * 1) + ... + [1 * 90/2^(n-1)
 
 
 Consequentially, non-reversal sequences starting with green_candle basically go as follows:
- 1    90                (green> green red).
- 2    45                (green> green green red).
- 3    22.5              (green> green green green red).
+ 1    90                (green> green red)
+ 2    45                (green> green green red)
+ 3    22.5              (green> green green green red)
  .     .
  .     .
  .     .
@@ -509,7 +509,7 @@ Consequentially, non-reversal sequences starting with green_candle basically go 
 
 Period T    II(T)          Symbol & IPP                  IFP             Sequence
 
- 1          90              \+1                          +1              (green> red red).
+ 1          90              \+1                          +1              (green> red red)
 
  2          45              \-1/0                        -1              (green> red green green)
 
@@ -640,7 +640,7 @@ In any informational system "kin to a natural random walk style...coin flips...f
 
 Period T     II(T)          Symbol & IPP                                  IFP             Sequence
 
- 1           90               /-1                                         -1              (red> green green).
+ 1           90               /-1                                         -1              (red> green green)
 
  2           45               /+1\-2                                      -1              (red> green red red)
 
@@ -675,9 +675,9 @@ IFP = 0 - ({[45 * (1)] + [22.5 * (1)] + [11.25 * (1)] + [5.625 * (1)] + ... + [(
  
  
 Consequentially, non-reversal sequences starting with green_candle basically go as follows:
- 1    90                (green> green red).
- 2    45                (green> green green red).
- 3    22.5              (green> green green green red).
+ 1    90                (green> green red)
+ 2    45                (green> green green red)
+ 3    22.5              (green> green green green red)
  .     .
  .     .
  .     .
@@ -697,7 +697,7 @@ Consequentially, non-reversal sequences starting with green_candle basically go 
 
 Period T     II(T)         Symbol & IPP                                  IFP             Sequence
 
- 1           90              \+1                                         +1              (green> red red).
+ 1           90              \+1                                         +1              (green> red red)
  
  2           45              \-1/+2                                      +1              (green> red green green)
 
@@ -770,7 +770,7 @@ In a such informational system, the informational properties for each set either
 
 Period T    II(T)               Symbol & IPP                    IFP             Sequence
 
- 1          90/5                 /-1                            -1              (red> green green).
+ 1          90/5                 /-1                            -1              (red> green green)
 
  2          45/5                 /+1\-1                          0              (red> green red red)
 
@@ -807,7 +807,7 @@ Consequentially, non-reversal sequences starting with green_candle basically  go
 
 Period T    II(T)              Symbol & IPP                  IFP             Sequence
 
- 1          90/5                \+1                          +1              (green> red red).
+ 1          90/5                \+1                          +1              (green> red red)
 
  2          45/5                \-1/+1                        0              (green> red green green)
 
@@ -969,7 +969,7 @@ e.g.1:  /\/\/\/\/\/\/\/\/\/\/\
 
 Instead of launching the martingale from the beginning, let's apply a threshold:
         
-         /0\0/0\0/\0/0\0/0\0/0\0/0\0/0\0/0\0/-1\-2/-4\+8
+         /0\0/0\0/0\0/0\0/0\0/0\0/0\0/0\0/0\0/-1\-2/-4\+8
 
 	⁃	The length of the above pattern from one rare long reversal sequence equals its informational period T=22
 	⁃	Threshold = 19
@@ -1513,7 +1513,7 @@ Do the geometric structures below form an orbit (or symmetry) ? YES or NO.
 
 For  /\   and  \/ :
 
-7/7  meaning 90 out of 90 for isolated reversal sequences with an informational period "T = 2" starting with a zig and their symmetry 90 out of 90 for isolated reversal sequences with an informational period "T = even number" starting with a zag, both form   Hyper-directly-linked orbits.
+7/7  meaning 90 out of 90 for isolated reversal sequences with an informational period "T = even number" starting with a zig and their symmetry 90 out of 90 for isolated reversal sequences with an informational period "T = even number" starting with a zag, both form   Hyper-directly-linked orbits.
 
 Leading to  [(90 * 2)] * 2 = 360 out of 720min  meaning  3.5/7 in other words  50% of informational total period "TT" for all isolated reversal sequences elapse during the formation of Hyper-directly-linked orbits.
 
@@ -1746,7 +1746,7 @@ THEREFORE BOTH BERNOUILLI AND ALAMBERT ASSUMPTION WERE MATHEMATICALLY AND PHYSIC
 
 
 
-==> Thanks to the law of large numbers and the principle of least action, everything gets where it supposes to be, the both inevitable and unavoidable orbit (or symmetry) formation with the so-called increasing passage of time (I'm personally convinced, human-beings' minds are the ones passing; time is just mutating from "imaginary=rotation" to "real=translation", vice versa)  can always dynamically lead to an emergence of a "only_Yes_containing_informational_system"... oh... but wait (where is entropy? gone...no, just a theoretical special case within short terms or small-scale structures of randomness... Where is conservation? gone...no, just another theoretical special case for statical-systems which by the way don't exist in real practical world as we know it).
+==> Thanks to the law of large numbers and the principle of least action, everything gets where it is supposed to be, the both inevitable and unavoidable orbit (or symmetry) formation with the so-called increasing passage of time (I'm personally convinced, human-beings' minds are the ones passing; time is just mutating from "imaginary=rotation" to "real=translation", vice versa)  can always dynamically lead to an emergence of a "only_Yes_containing_informational_system"... oh... but wait (where is entropy? gone...no, just a theoretical special case within short terms or small-scale structures of randomness... Where is conservation? gone...no, just another theoretical special case for statical-systems which by the way doesn't exist in real practical world as we know it).
 
 
 
