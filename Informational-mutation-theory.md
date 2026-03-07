@@ -27,7 +27,6 @@ Unedited second original manuscript(shortened-version, Email: hakiza1@proton.me)
 
 
 
-
 ABSTRACT
 
 
