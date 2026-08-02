@@ -1615,7 +1615,7 @@ Leading to {[(12.85714...2857142 * 3)] * 2} + (12.85714...2857142 * 2) = 102.857
 
 Verifiable in a deterministic  polynomial time proportional to "TT = 2A" and solvable in a non-deterministic polynomial time "TD = NTT + 2A".
 Where "NTT" is the informational total period for all non-reversal sequences encountered during the problem-solving  process (or let's say during the formation of the orbit in question).
-Where "A belongs to {4, 5, 6, 7, 8, 9, 10, ...}" and represents the total number of pairs encountered during the problem-solving  process (or let's say during the formation of the orbit in question).
+Where "A belongs to {7, 8, 9, 10, ...}" and represents the total number of pairs encountered during the problem-solving  process (or let's say during the formation of the orbit in question).
 
 
 e.g: 
